@@ -1,0 +1,66 @@
+<html>
+<head><title>ICT E-Portfolio</title></head>
+<style>
+        @font-face {
+            font-family: myCustomFont;
+            src: url('minecrafter.reg.ttf');
+        }
+        .custom-font {
+            font-family: myCustomFont;
+        }
+
+        a:hover img {
+            box-shadow: 0 0 5px 5px white;
+            transition: box-shadow 0.1s ease;
+        }
+</style>
+<body background="blackdirt.png">
+<table align="center" height=4%" width="100%" bgcolor="black">
+<tr> <td width="45%"> <font color="white" size="5%" class="custom-font"> E-Portfolio </td>
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="E-portfolio.html" style="color:white"> home </td>
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="about me.html" style="color:white"> about me </td>
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="activities.html" style="color:white"> activites </td>
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="lessons.html" style="color:white"> lessons </td> 
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="reflection.html" style="color:white"> reflection </td> </tr>
+</table>
+
+<p align="center"><img src="activitiesmcdirt.png" alt="abt me" width="100%"></p>
+
+<table border="0" align="center" cellspacing="100">
+<tr>
+<td align="center" colspan="3"> <font size="100%" color="white" class="custom-font"> School-Wide Activities </td>
+</tr>
+<tr>
+<td align="center"> <img src="bnw.png" height="300" width=300" alt="placeholder"> </td> 
+<td align="center" width="33%"> <video src="foundationday.mov" controls height="300" width=300> </td>
+<td align="center"> <img src="sciencemonth.png" height="300" width=300" alt="placeholder"> </td> 
+<tr>
+<td align="center" width="33%"><font color="white" style="font-family:courier"> <b> Buwan Ng Wika </b><br> The whole of August is considered Buwan ng Wika. We wore Barong Tagalog and did declamation.</font></td>
+<td align="center" width="33%"><font color="white" style="font-family:courier"> <b> 15th Foundation Day </b><br> This day was celebrated during August 24 <br> to honor our school's establishment. <br> It was a special event consists of <br> different activities and booths. In this video, <br> I was actually inside the jail booth <br> because I forgot to bring my ID.</font></td>
+<td align="center" width="33%"><font color="white" style="font-family:courier"> <b> Science Month </b><br> The whole of September is the Science Month. We had a quiz bee for our batch.</font></td>
+</tr>
+<tr>
+<td align="center" colspan="3"> <font size="100%" color="white" class="custom-font"> Classroom Activities </td>
+</tr>
+<tr>
+<td align="center"> <img src="science.png" height="300" width=300" alt="placeholder"> </td> 
+<td align="center"> <audio src="MapehSong.mp3" controls> </audio></td> 
+<td align="center"> <img src="stainedglass.png" height="300" width=300" alt="placeholder"> </td> 
+</tr>
+<tr>
+<td align="center" width="33%"><font color="white" style="font-family:courier"> <b> Science Human Simulation </b><br> This picture is a human simulation of our respiratory system. I played the part of the diaphragm.</font></td>
+<td align="center" width="33%" ><font color="white" style="font-family:courier"> <b> Health Song/Music Video </b> <br> We were asked to make a song/music video about taking care of the environment. I edited the song/video for our group. Here's a clip of it.</font></td>
+<td align="center" width="33%"><font color="white" style="font-family:courier"> <b> Art Stained Glass </b><br> This is a trio stained glass project that we did in Art. I was with Migs and Emman.(Shoutout!)</font></td>
+</tr>
+</table>
+<table>
+<tr> <td align="right"> <a href="about me.html"><img src="happy.png" width="35%" height="35%" alt="placeholder"> </a> </td>
+<td align="center"> <a href="activities.html"><img src="pencil.png" width="35%" height="35%" alt="placeholder"> </a> </td>
+<td> <a href="E-portfolio.html"><img src="homemc.png" alt="placeholder"> </a></td>
+<td> <a href="E-portfolio.html#feedback"><img src="feedbackmc.png" alt="placeholder"> </a></td>
+<td align="center"> <a href="lessons.html"><img src="question.png" width="35%" height="35%" alt="placeholder"> </a></td>
+<td align="left"> <a href="reflection.html"><img src="magnifying.png" width="35%" height="35%" alt="placeholder"> </a></td>
+</tr>
+</table>
+</body>
+</html>

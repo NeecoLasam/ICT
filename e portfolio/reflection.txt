@@ -1,0 +1,47 @@
+<html>
+<head><title>ICT E-Portfolio</title></head>
+<style>
+        @font-face {
+            font-family: myCustomFont;
+            src: url('minecrafter.reg.ttf');
+        }
+
+        .custom-font {
+            font-family: myCustomFont;
+        }
+
+        
+        a:hover img {
+            box-shadow: 0 0 5px 5px white;
+            transition: box-shadow 0.1s ease;
+        }
+    </style>
+<body background="blackbg.png">
+<table align="center" height=4%" width="100%">
+<tr> <td width="45%"> <font color="white" size="5%" class="custom-font"> E-Portfolio </td>
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="E-portfolio.html" style="color:white"> home </td>
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="about me.html" style="color:white"> about me </td>
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="activities.html" style="color:white"> activites </td>
+<td width="11%" align="center"> <font color="white" class="custom-font" > <a href="lessons.html" style="color:white"> lessons </td> 
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="reflection.html" style="color:white"> reflection </td> </tr>
+</table>
+
+<p align="center"><img src="reflectionmcdirt.png" alt="abt me" width="100%"></p>
+
+<p align="justify" style="font-size:40px; font-family:courier;">
+<font color="white">Our lessons in ICT in the 1st quarter was all about html coding. At first, I was a bit scared because I've heard that coding is a really difficult and confusing thing to understand,
+but I was also excited because I've always been intersted in learning and understanding how to code. We learned about XHTML, HTML lists, HTML tables, links and hyperlinks, and HTML forms.
+For me, the hardest lesson was html forms, because this has a lot more different attributes and tags you need to remember compared to the others. The good thing is we were able to practice a lot due to the hands-on activities given to use to try out and use the information we learned about coding of the topic.
+So far, I found coding really enjoyable and fun. I'm really looking forward to learning more about advanced coding in the following quarters.
+</p><br><br><br>
+<table>
+<tr> <td align="right"> <a href="about me.html"><img src="happy.png" width="35%" height="35%" alt="placeholder"> </a> </td>
+<td align="center"> <a href="activities.html"><img src="pencil.png" width="35%" height="35%" alt="placeholder"> </a> </td>
+<td> <a href="E-portfolio.html"><img src="homemc.png" alt="placeholder"> </a></td>
+<td> <a href="E-portfolio.html#feedback"><img src="feedbackmc.png" alt="placeholder"> </a></td>
+<td align="center"> <a href="lessons.html"><img src="question.png" width="35%" height="35%" alt="placeholder"> </a></td>
+<td align="left"> <a href="reflection.html"><img src="magnifying.png" width="35%" height="35%" alt="placeholder"> </a></td>
+</tr>
+</table>
+</body>
+</html>

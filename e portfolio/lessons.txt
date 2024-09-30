@@ -1,0 +1,82 @@
+<html>
+<head><title>ICT E-Portfolio</title></head>
+<style>
+        @font-face {
+            font-family: myCustomFont;
+            src: url('minecrafter.reg.ttf');
+        }
+
+        body {
+            background-image: url('blackdirt.png');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        .custom-font {
+            font-family: myCustomFont;
+        }
+
+        
+        a:hover img {
+            box-shadow: 0 0 5px 5px white;
+            transition: box-shadow 0.1s ease;
+        }
+    </style>
+<body bgcolor="black">
+<table align="center" height=4%" width="100%" bgcolor="black">
+<tr> <td width="45%"> <font color="white" size="5%" class="custom-font"> E-Portfolio  </font></td>
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="E-portfolio.html" style="color:white"> home </a> </font></td>
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="about me.html" style="color:white"> about me </a> </font></td>
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="activities.html" style="color:white"> activites </a> </font></td>
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="lessons.html" style="color:white"> lessons </a> </font></td> 
+<td width="11%" align="center"> <font color="white" class="custom-font"> <a href="reflection.html" style="color:white"> reflection </a> </font></td> </tr>
+</table>
+
+<p align="center"><img src="lessonsmcdirt.png" alt="lessons" width="100%"></p>
+
+<table align="center">
+<tr>
+<td align="center" colspan="3"> <font color="white" size="25" class="custom-font"> The lessons we discussed this 1st quarter are the ff.  </font>  </td>
+</tr>
+<tr>
+<td width="33%" colspan="3" align="center">
+<font color="white" size="8" style="font-family:courier">
+<ul> 
+<li> XHTML </li>
+<li> HTML Lists </li>
+<li> HTML Tables </li>
+<li> Hyperlinks & Links </li>
+<li> HTML Forms </li>
+</ul> </font> </td>
+</tr>
+<tr> <td align="center" height="0%"> <img src="xhtmlmc.png" width="80%" height="100%" alt="placeholder"></td>
+<td align="center"><img src="listmc.png" width="80%" height="100%" alt="placeholder"></td>
+<td align="center"><img src="tablesmc.png" width="80%" height="100%" alt="placeholder"></td>
+</tr>
+<tr>
+<td align="center"> <img src="xhtml.png" height="300" width="400" alt="placeholder"> </td> 
+<td align="center"> <img src="lists.png" height="300" width="400" alt="placeholder"></td>
+<td align="center"> <img src="tables.png" height="300" width="400" alt="placeholder"></td>
+</table><br>
+<table align="center">
+<tr>
+<td align="center"><img src="linkmc.png" width="50%" height="100%" alt="placeholder"></td>
+<td align="center"><img src="formsmc.png" width="50%" height="100%" alt="placeholder"></td>
+</tr>
+<tr>
+<td align="center"> <video src="link.mp4" height="100%" width="400" alt="placeholder" controls> </td> 
+<td align="center"> <img src="forms.png" height="300" width="400" alt="placeholder"></td> 
+</tr>
+</table><br>
+<table>
+<tr> <td align="right"> <a href="about me.html"><img src="happy.png" width="35%" height="35%" alt="placeholder"> </a> </td>
+<td align="center"> <a href="activities.html"><img src="pencil.png" width="35%" height="35%" alt="placeholder"> </a> </td>
+<td> <a href="E-portfolio.html"><img src="homemc.png" alt="placeholder"> </a></td>
+<td> <a href="E-portfolio.html#feedback"><img src="feedbackmc.png" alt="placeholder"> </a></td>
+<td align="center"> <a href="lessons.html"><img src="question.png" width="35%" height="35%" alt="placeholder"> </a></td>
+<td align="left"> <a href="reflection.html"><img src="magnifying.png" width="35%" height="35%" alt="placeholder"> </a></td>
+</tr>
+</table>
+</body>
+</html>
